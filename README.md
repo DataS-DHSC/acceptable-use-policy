@@ -40,6 +40,7 @@ All users will:
 * Not store any large data sets (> 5,000 records) in GitHub, unless there is a temporary, operational reason for doing so;
 * Not store any data, source code or documentation containing sensitive information;
 * Not store any data, source code, or documentation containing personal information;
+* Not store any data, source code, or documentation that was designated for DHSC network systems only;
 * Not store any credentials or secrets;
 * Not store any data or project materials that is classified as SECRET or TOP SECRET;
 * Not store any data without permission from the project owner (and/or data owner);
