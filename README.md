@@ -19,6 +19,7 @@ All users will:
 
 * Follow all relevant information governance procedures, and report any security incidents, in line with the relevant DHSC policies;
 * Create secure passwords, protect their login credentials appropriately, and not share their account or login credentials with any other person;
+* Require two-factor authentication to log into their user account;
 * Store all DHSC work in this Github organisation;
 * Not store any work in public repositories without obtaining prior written permission from their line manager;
 * Follow guidance on [making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable); 
