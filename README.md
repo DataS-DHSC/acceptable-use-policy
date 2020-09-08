@@ -22,6 +22,7 @@ All users will:
 * Require two-factor authentication to log into their user account;
 * Store all DHSC work in this Github organisation;
 * Not store any work in public repositories without obtaining prior written permission from their line manager;
+* Be allowed to use personal laptops to clone or interact with work stored on this GitHub organisation, if the repository contains no policy-sensitive code or data;
 * Follow guidance on [making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable); 
 * Not use the Github organisation to undertake any illegal activity or any activity that could harm DHSC's reputation or compromise the security of data or IT systems. 
 
@@ -54,5 +55,3 @@ You may only store work in a public repository if you have:
 * verified that the work contains no sensitive information or secrets;
 * obtained prior written permission from your line manager;
 * followed guidance on [making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable). 
-
-
