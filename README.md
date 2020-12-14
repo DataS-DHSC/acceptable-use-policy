@@ -56,6 +56,6 @@ You may only store work in a public repository if you have:
 * obtained prior written permission from your line manager;
 * followed guidance on [making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable). 
 
-## Organisation management
+# Organisation management
 
 Membership of this Github organisation is managed by the DHSC Data Science Hub (in OCA). DHSC Data Science Hub leadership team will receive Admin rights to this organisation. They will aim to provide the correct (minumum required) read/write access level to each new member. By default, this is 'Member' access.
