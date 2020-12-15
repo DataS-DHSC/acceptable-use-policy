@@ -46,6 +46,7 @@ All users will:
 * Not store any data or project materials that is classified as SECRET or TOP SECRET;
 * Not store any data without permission from the project owner (and/or data owner);
 * Ensure that all transfers of data are conducted safely and securely.
+* Remove output from notebooks: https://github.com/kynan/nbstripout
 
 
 ## Public repositories
