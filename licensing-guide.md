@@ -19,4 +19,18 @@ These are the steps to work out what license your code should have.
 4. If there would be a technical benefit from publishing your code under a license other than OGLv3, you may choose an [alternative OSI approved license](https://opensource.org/licenses). You probably want to consider the MIT license. It is the most common, least restrictive license that still provides sufficient protection to crown copyright, and [it is used by GDS for this reason](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable#licensing-your-code).
 5. If there would be no technical benefits, you must publish your code [under OGL](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). 
 
+## Seeking further legal advice
+
+This step-by-step plan is likely sufficient. However, in some cases you should go back to the department's legal team for further advice. For example:
+
+- Where part(s) of the code has been obtained under a licence and you are unclear, having considered the terms of the licence, as to whether you will be required to publish the new / modified code under that same licence;
+- Where legal advice is required in relation to the terms of any other open source licence;
+- Where all or part of the code has been developed by external contractors/ consultants and consideration will need to be given to whether they own the intellectual property;
+- Where DHSC has collaborated with other organisations / third parties to develop the code.  Ideally, agreement regarding intellectual property, publishing the source code and what licence should be used should be agreed from the outset but if necessary, this can be considered at retrospectively; 
+- Where the National Archives have issued a new version of the Open Government Licence and further consideration needs to be given to whether this should be used as a default option;
+- Where the licence is required to include patents, trademarks and / or design rights; or
+- Where a more restrictive licence than MIT or OGL might be required.     
+
+Moreover, whenever in doubt, please go back to get legal advice.
+
 
